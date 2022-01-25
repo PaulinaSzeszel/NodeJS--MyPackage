@@ -1,0 +1,8 @@
+{
+    "name": "@yoell/randomid-generator",
+    "version": "1.0.1",
+    "main": "index.js",
+    "repository": "git@github.com:PaulinaSzeszel/NodeJS--MyPackage.git",
+    "author": "Marcin Nowak <paulina_szeszel@o2.pl>",
+    "license": "MIT"
+  }
